@@ -63,5 +63,5 @@ python -m uvicorn server:app
 
 آدرس مرجع :
 
-http://localhost:8000//normalize
+http://localhost:8000/normalize
 
