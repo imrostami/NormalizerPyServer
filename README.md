@@ -61,5 +61,7 @@ python -m uvicorn server:app
 
 
 
-آدرس مرجع : http://localhost:8000
+آدرس مرجع :
+
+http://localhost:8000//normalize
 
