@@ -59,3 +59,7 @@ python -m uvicorn server:app
 
 بفرستید تا نتیجه رو دریافت کنید
 
+
+
+آدرس مرجع : http://localhost:8000
+
